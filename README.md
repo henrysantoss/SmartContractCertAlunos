@@ -27,7 +27,7 @@ npx hardhat compile
 ## Rodando a blockchain local
 Em um terminal separado, execute:
 ```sh
-npx hardhat node --port 9545
+npx hardhat node
 ```
 
 ## Executando o menu interativo
