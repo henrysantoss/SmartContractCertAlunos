@@ -30,7 +30,7 @@ module.exports = {
     }
   },
   paths: {
-    root: "./", // <-- Adicione esta linha
+    root: "./",
     sources: "./contracts",
     tests: "./testes",
     cache: "./cache",
